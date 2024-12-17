@@ -1,0 +1,33 @@
+{
+  "title": "AP Stats",
+  "cards": [
+    {
+      "question": "What does the symbol \u22C3 mean?",
+      "answer": "Union (or)."
+    },
+    {
+      "question": "What does the symbol \u22C2 mean?",
+      "answer": "Intersection (and)."
+    },
+    {
+      "question": "What does it mean when two events are mutually exclusive?",
+      "answer": "They cannot happen simultaneously."
+    },
+    {
+      "question": "What does it mean when two events are independent of eachother?",
+      "answer": "The outcome of one event does not influence the probability of the other."
+    },
+    {
+      "question": "Who is the best coach in the world?",
+      "answer": "Tom Izzo."
+    },
+    {
+      "question": "What does S.O.C.S. stand for?",
+      "answer": "Shape, oddities, center, spread (describing a distribution)."
+    },
+    {
+      "question": "What does D.U.F.S. stand for?",
+      "answer": "Direction, unusualities, form, strength (describing a relationship)."
+    }
+  ]
+}

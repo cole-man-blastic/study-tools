@@ -1,0 +1,67 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: gray;
+}
+
+main {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+#json {
+  margin-left: auto;
+  margin-right: auto;
+  width: max-content;
+}
+
+#json-input {
+  border-style: none;
+}
+
+#json-input:focus {
+  outline-style: none;
+}
+
+#ap-stats {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+  border-style: none;
+  background-color: white;
+}
+
+button:hover {
+  color: white;
+  background-color: black;
+}
+
+button:active {
+  color: gray;
+}
+
+#card {
+  padding: 4rem;
+  width: 36rem;
+  height: 24rem;
+  background-color: lightgray;
+  box-shadow: 1rem 1rem 4rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: xx-large;
+}
