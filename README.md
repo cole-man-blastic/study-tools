@@ -1,2 +1,2 @@
-# study-tools
+# Study Tools
 Just flashcards for now.
