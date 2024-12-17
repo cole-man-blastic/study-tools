@@ -24,7 +24,7 @@ onload = () => {
 
   apStats.onclick = async () => {
     clear();
-    studyJson = await (await fetch("http://127.0.0.1:8887/ap-stats.json")).json();
+    studyJson = await (await fetch("./ap-stats.json")).json();
     start(studyJson);
   };
 
